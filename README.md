@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil ricardovaleri0 😎
+## Bem-vindo(a) ao perfil ricardovalehrio 😎
 
  <div>
    <a href="https://github.com/ricardovaleri0">
