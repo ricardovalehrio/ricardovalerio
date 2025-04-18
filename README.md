@@ -20,6 +20,6 @@
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href = "mailto:ricardovaleriosilvaoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ricardovaleriosilvaoliveira@gmail.com?subject=Email+do+GitHub&body=Ol%C3%A1,+podemos+conversar+sobre+propostas?+Como+posso+entrar+em+contato+com+voc%C3%AA?><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-val%C3%A9rio-431542176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
