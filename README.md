@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil ricardovalehrio 😎
 
  <div>
-   <a href="https://github.com/ricardovalehrio">
+   <a href="https://github.com/ricardovalehrio/ricardovalerio">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardovalehrio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovaleri0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
